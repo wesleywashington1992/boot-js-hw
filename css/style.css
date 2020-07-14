@@ -1,0 +1,159 @@
+/* .flex-container {
+
+    display: flex;
+
+  }
+
+.flex-container > div {
+
+    margin:  0 40px 0px 40px;
+
+    padding: 50px;
+
+    font-size:30px;
+
+    width: 30%;
+
+    height: 300px;
+
+  } */
+
+  
+
+  
+
+  .headings{
+
+    margin: 50px 0 60px 0;
+
+    text-align: center;
+
+  }
+
+
+
+  h2{
+
+    text-align:center ;
+
+      padding: 30px;
+
+      margin: 20px;
+
+  }
+
+
+
+.boxesRow{
+
+  height: 200px;
+
+}
+
+
+
+.firstDiv{
+
+  background: red;
+
+  border:3px solid #0000;
+
+  margin: 25px;
+
+}
+
+
+
+.firstDivNew{
+
+  background: magenta;
+
+  border:3px solid green;
+
+}
+
+
+
+.secondDiv{
+
+  background: blue;
+
+  border: 3px dashed yellow;
+
+  margin:  25px;
+
+}
+
+
+
+.secondDivNew{
+
+  background: orange;
+
+  border: 3px dashed purple;
+
+}
+
+
+
+.thirdDiv{
+
+  background: limegreen;
+
+  border: 3px solid purple;
+
+  margin: 25px;
+
+}
+
+
+
+.thirdDivNew{
+
+  background: white;
+
+  border: 3px solid pink;
+
+}
+
+
+
+.changeAllColors{
+
+  background: black;
+
+  border: 10px dotted cadetblue;
+
+}
+
+
+
+.changeTitle{
+
+  color: black;
+
+  text-decoration: underline;
+
+}
+
+
+
+.rowBtns span{
+
+  background: #e5e5e5;
+
+  margin-bottom:10px;
+
+  padding: 5px 5px;
+
+  border-spacing:0 15px;
+
+}
+
+
+
+.resetAllBtn a{
+
+  color: #000000;
+
+}
